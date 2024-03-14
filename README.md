@@ -57,7 +57,7 @@ programming experiences.
 
 
 <p align="center">
-  You can reach me on:
+  You can reach me at:
 </p>
 
 <p align="center">
