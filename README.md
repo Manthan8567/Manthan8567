@@ -71,8 +71,5 @@ programming experiences
   <a href="https://instagram.com/Manthan.78">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="tel:+14389289879">
-    <img src="https://image.flaticon.com/icons/png/512/2948/2948034.png" alt="Phone" height="30" />
-</a>&nbsp;&nbsp;&nbsp;
 </p>
 
