@@ -4,7 +4,7 @@
 As a graduating student in Computer Science Technology specializing in Video Game Programming at LaSalle College, I am
 an aspiring game developer with three years of dedicated experience in practicing both Unity and Unreal engines. Excited
 to dive into an internship that allows me to apply my skill and creativity, contributing to the creation of immersive gaming and
-programming experiences
+programming experiences.
 
 <hr>
 
