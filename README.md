@@ -14,8 +14,7 @@ programming experiences.
 - Programming Languages: C# and C++
 - Web Development: HTML, CSS and Javascript (Basic)
 - Modeling and Animation: Maya and Blender
-- Other skills: Familiar with OOP concepts, Advanced Data Structure, Structured Programming, 3D Graphics and Rendering,
-- Unit Testing and Debugging
+- Other skills: Familiar with OOP concepts, Advanced Data Structure, Structured Programming, 3D Graphics and Rendering, Unit Testing and Debugging
 
 <hr>
 
