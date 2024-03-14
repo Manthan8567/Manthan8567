@@ -11,7 +11,7 @@ programming experiences.
 ### 🚀 SKILLS
 
 - Game Engines: Unity3D and Unreal Engine
-- Programming Languages: cSharp and C++
+- Programming Languages: C# and C++
 - Web Development: HTML, CSS and Javascript (Basic)
 - Modeling and Animation: Maya and Blender
 - Other skills: Familiar with OOP concepts, Advanced Data Structure, Structured Programming, 3D Graphics and Rendering,
