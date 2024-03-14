@@ -62,7 +62,7 @@ programming experiences
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/manthan8567">
+  <a href="https://linkedin.com/in/manthan8567">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
 </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:manthan7393@gmail.com">
