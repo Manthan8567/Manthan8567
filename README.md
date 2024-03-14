@@ -30,7 +30,7 @@ programming experiences
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Manthan8567/Zombie-Survival-Game" title="Zombie Survival Game">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Zombie-Survival-Game&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Zombie-Survival-Game&theme=react&border_color=61dafb&border_radius=11">
 </a>
   <a align="left" href="https://github.com/Manthan8567/IMI-Run" title="IMI Run">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=IMI-Run&theme=react&border_color=61dafb&border_radius=10">
