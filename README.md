@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! I'm Manthan Prajapati 👋</h1>
 
 
-As a graduating student in Computer Science Technology specializing in Video Game Programming at LaSalle College, I am
-an aspiring game developer with three years of dedicated experience in practicing both Unity and Unreal engines. Excited
-to dive into an internship that allows me to apply my skill and creativity, contributing to the creation of immersive gaming and
-programming experiences.
+As a graduating student in Computer Science Technology specializing in Video Game Programming at LaSalle College, I have
+immersed myself in Unity and Unreal engines for three years. Now, I’m excited to channel that expertise into an internship where
+I can contribute to immersive gaming experiences. Beyond gaming, I’ve explored diverse programming arenas, showcasing
+adaptability and creativity. Ready to bring my skills to the table and dive into exciting projects!
 
 <hr>
 
@@ -12,9 +12,9 @@ programming experiences.
 
 - Game Engines: Unity3D and Unreal Engine
 - Programming Languages: C# and C++
-- Web Development: HTML, CSS and Javascript (Basic)
+- Web Development: HTML, CSS and Javascript 
 - Modeling and Animation: Maya and Blender
-- Other skills: Familiar with OOP concepts, Advanced Data Structure, Structured Programming, Unit Testing and Debugging
+- Other skills: Familiar with OOP concepts, Advanced Data Structure, Structured Programming, Debugging, PHP and MySql
 
 <hr>
 
