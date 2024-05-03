@@ -35,7 +35,7 @@ adaptability and creativity. Ready to bring my skills to the table and dive into
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Zombie-Survival-Game&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Manthan8567/Cosmic-Ranger" title="Cosmic Ranger">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Cosmic-Ranger&theme=react&border_color=61dafb&border_radius=10">
@@ -44,7 +44,7 @@ adaptability and creativity. Ready to bring my skills to the table and dive into
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Grocery-2-Go&theme=react&border_color=61dafb&border_radius=11">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Manthan8567/IMI-Run" title="IMI Run">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=IMI-Run&theme=react&border_color=61dafb&border_radius=10">
