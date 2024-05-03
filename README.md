@@ -41,7 +41,7 @@ adaptability and creativity. Ready to bring my skills to the table and dive into
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Cosmic-Ranger&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/Manthan8567/Grocery-2-Go" title="Grocery 2 Go">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Grocery-2-Go&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Grocery-2-Go&theme=react&border_color=61dafb&border_radius=11">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
