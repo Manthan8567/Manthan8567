@@ -28,32 +28,32 @@ adaptability and creativity. Ready to bring my skills to the table and dive into
 <h2 align="center">👨‍💻 Projects 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Manthan8567/Zombie-Survival-Game" title="Zombie Survival Game">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Zombie-Survival-Game&theme=react&border_color=61dafb&border_radius=11">
-</a>
+  <a align="left" href="https://github.com/Manthan8567/Destroy-or-Die" title="Destroy or Die">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Destroy-or-Die&theme=react&border_color=61dafb&border_radius=11">
+  </a>
+  <a align="right" href="https://github.com/Manthan8567/Zombie-Survival-Game" title="Zombie Survival Game">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Zombie-Survival-Game&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Manthan8567/Cosmic-Ranger" title="Cosmic Ranger">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Cosmic-Ranger&theme=react&border_color=61dafb&border_radius=10">
+  </a>
   <a align="right" href="https://github.com/Manthan8567/IMI-Run" title="IMI Run">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=IMI-Run&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Manthan8567/INCOKO_" title="Cosmic Ranger">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=INCOKO_&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/Manthan8567/Grocery-2-Go" title="Grocery 2 Go">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Grocery-2-Go&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/Manthan8567/Cinema-Ticket-Booking-System" title="Cinema Ticket Booking System">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Cinema-Ticket-Booking-System&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Manthan8567/Student-Record-Management-System" title="Destroy or Die">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Student-Record-Management-System&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/Manthan8567/Scientific-Calculator-Windows-Application" title="Scientific Calculator">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Scientific-Calculator-Windows-Application&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 <p align="center">
