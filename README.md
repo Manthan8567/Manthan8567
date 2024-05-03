@@ -53,7 +53,7 @@ adaptability and creativity. Ready to bring my skills to the table and dive into
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Cinema-Ticket-Booking-System&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 
 
