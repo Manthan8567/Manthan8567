@@ -37,7 +37,7 @@ adaptability and creativity. Ready to bring my skills to the table and dive into
 </div>
 <br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Manthan8567/Cosmic-Ranger" title="Cosmic Ranger">
+  <a align="left" href="https://github.com/Manthan8567/Cosmo-Ranger" title="Cosmo Ranger">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Manthan8567&repo=Cosmic-Ranger&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/Manthan8567/Grocery-2-Go" title="Grocery 2 Go">
